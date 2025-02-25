@@ -4,11 +4,6 @@ Welcome to our **UQ BIS ML** GitHub repository! This is home to all the tools or
 
 ---
 
-## 📂 **What's Inside?**  
-
-- 🧠 **Custom ML Tools:** Code and scripts developed specifically for this course.
-
-
 ## 👥 **Our Team**  
 
 Meet the people behind this course!  
